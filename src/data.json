@@ -1,0 +1,455 @@
+{
+    "patients": [
+      {
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 1,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 2,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 3,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 4,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 5,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 6,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 7,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 8,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 9,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 10,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 11,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 12,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 13,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 14,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 15,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 16,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 17,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 18,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 19,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 20,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 21,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 22,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 23,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 24,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 25,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 26,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 27,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 28,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 29,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 30,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 31,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 32,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 33,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 34,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 35 ,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 36,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 37,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 38,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 39,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 40,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 41,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 42,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 43,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId":44 ,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 45,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 46,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 47,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 48,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 49,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      },{
+        "modality": "MR",
+        "patientId": "0001",
+        "studyId": 50,
+        "studyDate": "6/12/2019 02:15 AM",
+        "images": 8,
+        "studyDescription": "XX2",
+        "performingPhysician": "DR.REX",
+        "referingPhysician": "DR.REX"
+      }
+    ]
+  }
